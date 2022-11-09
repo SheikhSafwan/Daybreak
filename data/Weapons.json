@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":0,"description":"Carefully harvested plant matter. Using the ship it can \nbe cloned and used for plastic and oxygen production.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":238,"name":"Plant","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":2,"animationId":6,"description":"Will mostly be used as a “scaffolding” and template for\nthe ship’s fabricators.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":68,"name":"Metal","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":3,"animationId":1,"description":"The fuel used everywhere back home. It releases energy \nimpulses, which the engine collects and uses.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":301,"name":"Impulsium","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":11,"description":"Built by the ancients, can withstand and distribute \nthe energy required by spaceships ","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":310,"name":"Power Core","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7}
+]
