@@ -1,0 +1,52 @@
+<block:-1,-1,10,10,offbot,center,credit_scene>
+CREDITS
+
+\c[2]Engine
+\c[15]RPG Maker MV
+
+\c[2]Artist
+\c[15]Samuel Nwaobi
+
+\c[2]Programmer
+\c[15]Danielle Hopfe
+\c[15]Emery Theroux
+\c[15]Sheikh Safwan Hossain
+
+\c[2]Writer
+\c[15]Ivan Stolypin
+
+\c[2]Executive Producer
+\c[15]Sean Zorzut
+
+\c[2]Producer
+\c[15]Danielle Hopfe
+
+\c[2]Lead Designer
+\c[15]Emery Theroux
+
+\c[2]Resources
+
+\c[14]Audio
+\c[15]Karl Casey - Void Gaze
+\c[15]Karl Casey - From Beneath
+\c[15]Karl Casey - The Visitor
+\c[15]A.L.I.S.O.N - Shine
+\c[15]DOX - Artifacts In The Sky
+
+\c[14]Font
+\c[15]Jayvee Enaguas
+
+\c[14]Plugin Programmer
+\c[15]RM CoreScript team
+\c[15]Dan "Liquidize" Deptula
+\c[15]Tor Damian Design
+\c[15]Quxios
+\c[15]Dmytryk (Dmy, Demetrius)
+\c[15]Zevia
+\c[15]Galv
+\c[15]Shaz
+</block>
+
+<block:999,0,10,10,300,center,Daybreak-cover-2>
+\{THE END
+</block>
