@@ -9,7 +9,7 @@ Credits:
 - Sean Zorzut - EP
 
 Web Deployment
-- SheikhSafwan.github.io
+- [sheikhsafwan.github.io]
 
 Instructions
 - Walking: WASD
