@@ -1,4 +1,4 @@
-Game: DayBreak
+# DayBreak
 
 Credits: 
 - Emery Theroux - Programmer
@@ -11,12 +11,8 @@ Credits:
 Web Deployment
 - SheikhSafwan.github.io
 
-
 Instructions
 - Walking: WASD
 - Dashing: Shift
 - Push Blaster: Enter
 - Interact/Skip: Enter
-
-Google Form
-https://docs.google.com/forms/d/e/1FAIpQLSdQEi7VM04b09FS6LNKHgm1k1QuekLQNuqKQbtgPH-omweJgA/viewform
